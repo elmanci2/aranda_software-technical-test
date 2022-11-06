@@ -1,10 +1,15 @@
 import React from 'react';
 import Home from './screens/Home';
+import '../src/scss/app.scss'
+import Context from './context/Context';
 
 function App() {
   return (
     <div className="App">
-        <Home/>
+      <Context>
+        <Home />
+      </Context>
+
     </div>
   );
 }

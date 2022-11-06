@@ -1,8 +1,17 @@
 import React from 'react'
+import footer from '../assets/Grupo_7610.png'
+
+import '../scss/components/footer.scss'
+
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer className='footer__conted' >
+      <div className="footer__conted--item">
+        <span> Con el Patrocinio de  </span>
+        <img src={footer} alt="" />
+      </div>
+    </footer>
   )
 }
 

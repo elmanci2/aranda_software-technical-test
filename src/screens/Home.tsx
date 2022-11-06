@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Head from '../components/Head'
 import Menu from '../components/menu/Menu'
 import Menu_movile from '../components/menu/Menu_movile'
+import Subtitle from '../components/menu/Subtitle'
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <Menu />
             <Head />
             <Menu_movile />
+            <Subtitle title='Nuevas Recetas' />
             <Card />
             <Footer />
         </div>
