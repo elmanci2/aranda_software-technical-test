@@ -6,7 +6,7 @@
   <h2 align="center" color="red" > technical test for aranda software  </h2>
 <h4> by  andres felipe mancilla  </h4>
 
-<a href="https://aranda1.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://elmanci2.github.io/aranda_software-technical-test/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -27,5 +27,5 @@
 <strong> live demo </strong>
 
 ```bash
-https://aranda1.vercel.app/
+https://elmanci2.github.io/aranda_software-technical-test/
 ```
