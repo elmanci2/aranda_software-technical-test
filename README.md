@@ -17,9 +17,9 @@
 <div> 
     <h2>  Herramientas y versiones   </h2>
 
--node js  v =  18.12.1 LTS
--react js con typescript 
--spoonacular
+1.node js  v =  18.12.1 LTS
+2.react js con typescript 
+3.spoonacular
 
 
 </div>
